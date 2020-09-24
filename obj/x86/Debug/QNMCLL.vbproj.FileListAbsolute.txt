@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\QNMCLL\obj\x86\Debug\QNMCLL.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\QNMCLL\bin\Debug\QNMCLL.exe
+C:\Users\Administrator\Desktop\QNMCLL\bin\Debug\QNMCLL.pdb
+C:\Users\Administrator\Desktop\QNMCLL\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Desktop\QNMCLL\obj\x86\Debug\QNMCLL.exe
+C:\Users\Administrator\Desktop\QNMCLL\obj\x86\Debug\QNMCLL.pdb
+C:\Users\Administrator\Desktop\QNMCLL\obj\x86\Debug\QNMCLL.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\QNMCLL\obj\x86\Debug\Form1.resources
+C:\Users\Administrator\Desktop\QNMCLL\obj\x86\Debug\Form2.resources
+C:\Users\Administrator\Desktop\QNMCLL\obj\x86\Debug\QNMCLL.vbprojResolveAssemblyReference.cache
